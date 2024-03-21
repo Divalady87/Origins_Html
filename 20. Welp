@@ -1,0 +1,36 @@
+<!-- Write code below 💖 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welp</title>
+  </head>
+  <body>
+    <h1>Welcome to Welp</h1>
+    <h3>Your favorite review site!</h3>
+    <form>
+      <label id>Name:</label>
+      <input type="text" required>
+      <br>
+      <br>
+      <label>What you are reviewing</label>
+      <input type="text" required>
+      <br>
+      <br>
+      <label>Would you visit and/or try again?</label>
+      <br>
+      <input type="radio" name="again">Yes <br>
+      <input type="radio" name="again">No <br>
+      <input type="radio" name="again">Maybe
+      <br>
+      <br>
+      <label> Rate it 1-5</lable>
+      <input type="number" min="1" max="5" required>
+      <br>
+      <br>
+      <label>Leave your comment below.</label> <br>
+      <textarea rows="5" cols="24" maxlength="250"></textarea>
+      <br>
+      <input type="submit"
+
+
+    </body>
